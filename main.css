@@ -1,0 +1,24 @@
+section{
+    height: 100vh;
+    border: 1px solid;
+    padding: 0px;
+    margin: -20px;
+}
+
+body{
+    margin-top: 47px;
+    
+}
+
+.example-style{
+    border: 1px solid;
+    height:200px; 
+    text-align: center;
+    font-size: 1rem;
+    line-height: 200px
+}
+
+.containerSection7Size{
+    padding:10%;
+    
+}
